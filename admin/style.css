@@ -1,0 +1,50 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body{
+  background: #f1f1f1;
+  margin-bottom: 60px;
+
+}
+footer{
+  position: absolute;
+  bottom: 0;
+  margin:0 -15px;
+  padding: 15px;
+  width: 100%;
+  height: 60px;
+  background-color: #d8d8d8;
+}
+.delete{
+  color:grey;
+  font-size: 16px;
+}
+.delete:hover{
+  color:red;
+}
+.imgPicture {
+  display: inline-block;
+  width: 94%;
+  height: 100px;
+  overflow: hidden;
+  background: #FFFFFF;
+  margin: 10px;
+}
+.imgPicture img {
+  width: 300px;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+@media screen and (min-width: 992px){
+  .admin-nav-menu{
+    position: fixed;
+    top:0;
+    left:0;
+  }
+  .admin-content{
+    margin-left: 182px;
+    width: calc(100% - 182px);
+  }
+}

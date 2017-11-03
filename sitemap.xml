@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://westwd.tk/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/portfolio</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.90</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/contact</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/reg_auth</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.40</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/usl-full?id=1</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/usl-full?id=2</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/usl-full?id=3</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/usl-full?id=4</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/usl-full?id=5</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/usl-full?id=6</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/usl-full?id=7</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/usl-full?id=8</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/podr?id=42</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/podr?id=41</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/podr?id=6</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/podr?id=5</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/user?id=1</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.20</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/podr?id=2</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/podr?id=4</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/podr?id=3</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://westwd.tk/podr?id=1</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

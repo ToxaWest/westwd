@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName 'admin'
+AuthUserFile /var/www/domains/w/we/wes/westwd.tk/.htpasswd
+Require valid-user
